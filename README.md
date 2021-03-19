@@ -5,7 +5,7 @@
 {This is Countdown-Timer website that allows one to input time to count down to and start the count down automaticaly. }
 ## Setup/Installation Requirements
 *This has no installation requirements since its a stand alone website. But the code to the website can be found in git hub below
-https://samuelkelvinmwangi.github.io/Sam-s-Pizza/
+https://samuelkelvinmwangi.github.io/Countdown-Timer/
 ## Known Bugs
 Currently there are no bugs in place.
 ## Technologies Used
